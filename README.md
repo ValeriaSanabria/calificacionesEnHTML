@@ -1,2 +1,2 @@
-# calificacionesEnHTML
+# Calificaciones
 Created with CodeSandbox
